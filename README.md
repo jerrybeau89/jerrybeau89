@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently looking for a job as a Software Engineer, Front End or Back End.
 - 🌱 I’m currently learning python.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with developing new projects.
 - 💬 Ask me to work on a project with you!
 - 📫 How to reach me: jerrybeau89@gmail.com
 - 😄 Pronouns: He/Him
